@@ -2,6 +2,35 @@
 
 A full-stack web application for booking on-demand home services like plumbing, cleaning, electrical work, and more.
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/HomePage.png)
+
+### SignUp Page
+![SignUp Page](screenshots/SignUpPage.png)
+
+### Login Page
+![Login Page](screenshots/LoginPage.png)
+
+### CustomerProfile Page
+![CustomerProfile Page](screenshots/CustomerProfile.png)
+
+### ProviderProfile Page
+![ProviderProfile Page](screenshots/ProviderProfile.png)
+
+### Services Page
+![Services Page](screenshots/ServicesPage.png)
+
+### Provider(MyBooking) Page
+![MyBooking Page](screenshots/ProviderBooking.png)
+
+### Booking Page
+![Booking Page](screenshots/Booking.png)
+
+### PaymentPage Page
+![Payment Page](screenshots/PaymentPage.png)
+
 ## 🚀 Project Structure
 
 on-demand-home-service/
